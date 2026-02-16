@@ -21,11 +21,11 @@ Saya percaya bahwa teknologi berbasis data adalah masa depan, dan saya terus bel
 
 ## 🛠 Tech Stack
 
-- 🐍 Python  
-- 🌐 HTML & CSS  
-- 🗄 MySQL  
-- 🔧 Git & GitHub  
-- 🌍 Networking (Cisco Packet Tracer)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -68,4 +68,8 @@ Terima kasih telah mengunjungi profil saya 🙌
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kystruick&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kystruick&layout=compact&theme=tokyonight"/>
 </a>
+</p>
+
+<p align="left">
+  <img height="180em" src="https://streak-stats.demolab.com?user=kystruick&theme=tokyonight" />
 </p>
