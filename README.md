@@ -64,10 +64,8 @@ Terima kasih telah mengunjungi profil saya 🙌
 ## 📊 GitHub Statistics
 
 <p align="left">
-<a href="https://github.com/kystruick">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kystruick&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kystruick&layout=compact&theme=tokyonight"/>
-</a>
 </p>
 
 <p align="left">
