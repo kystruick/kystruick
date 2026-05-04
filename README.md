@@ -11,7 +11,8 @@ Saya adalah mahasiswa **Teknik Telekomunikasi** yang memiliki minat besar dalam 
 - 🤖 Artificial Intelligence  
 - 📊 Machine Learning  
 - 💻 Software Development  
-- 🌐 Networking & System Design  
+- 🌐 Networking & System Design
+- Deep Learning
 
 Saat ini saya aktif mengikuti program pembelajaran di **Dicoding Academy** untuk memperdalam kemampuan teknis dan membangun portofolio proyek nyata.
 
